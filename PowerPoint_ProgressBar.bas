@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "PowerPoint_ProgressBar"
 Sub Progress_Bar()
     On Error Resume Next
     With ActivePresentation
